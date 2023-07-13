@@ -4,5 +4,5 @@ The value of n starts from 5*10^4. 
 SCALE: ON X-AXIS :1 UNIT: 50 X 10^6 ON Y-AXIS: 1 UNIT: 1 SECOND 
 
 Graph 2 :
-Time taken for the ith insertion as a function of i where 105 ≤ i ≤ 106 .
+Time taken for the ith insertion as a function of i where 1e5 ≤ i ≤ 1e6 .
 SCALE : ON X-AXIS :1 UNIT: 0.1 X 10^6 ON Y-AXIS: 1 UNIT: 0.001 SECOND 
